@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtualenvs
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*_executed.ipynb
+*_test_*.ipynb
+
+# Pytest
+.pytest_cache/
+
+# Local artifacts
+processed_email.txt
